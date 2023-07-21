@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748853901434",
+    "project_id": "logic-brain-1",
+    "storage_bucket": "logic-brain-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748853901434:android:e931b0a9c34784b16f63c3",
+        "android_client_info": {
+          "package_name": "com.logichexa.logicbrain1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748853901434-h1762c1imrd0n8uuc18eukl1vi4f8m4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbW-9esd6xEAoCPs7PlWumHv-SKBYB29M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748853901434-h1762c1imrd0n8uuc18eukl1vi4f8m4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
