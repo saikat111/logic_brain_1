@@ -11,7 +11,7 @@ object Constants {
     const val ABOUT = "https://logichexa.site/about-founder/"
     const val HELP =  "https://logichexa.site/contact/"
 
-    const val PRODUCT_ID = "chatai_pro"
+    const val PRODUCT_ID = "chataipro"
 
     const val WEEKLY_BASE_PLAN = "logicbrain1-pro"
     const val MONTHLY_BASE_PLAN = "logicbrain1-pro-month"
